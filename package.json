@@ -1,0 +1,35 @@
+{
+	"name": "@younho9/tsconfig",
+	"version": "0.1.1",
+	"description": "Shared TypeScript config that personally prefer",
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	],
+	"bugs": {
+		"url": "https://github.com/younho9/tsconfig/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/younho9/tsconfig.git"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Younho Choo",
+		"email": "yo+github@younho9.com",
+		"url": "https://younho9.dev"
+	},
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"engines": {
+		"node": ">=12"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
