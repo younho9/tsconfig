@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install --save-dev @younho9/tsconfig
+$ npm install --save-dev @younho9/tsconfig
 ```
 
 ## Usage
